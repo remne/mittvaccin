@@ -3,5 +3,9 @@ Fulkodad custom component sensor till Home Assistant för att se lägsta ålder 
 
 # Configuration.yaml
 
+```
+
 sensor:
   - platform: mittvaccin_sensor
+
+```
