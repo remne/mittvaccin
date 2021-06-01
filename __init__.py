@@ -1,0 +1,1 @@
+"""Mittvaccin sensor integration."""

@@ -1,0 +1,10 @@
+{
+    "domain": "mittvaccin_sensor",
+    "name": "Mitt Vaccin Sensor",
+    "documentation": "",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["requests>=2.25.1"],
+    "iot_class": "local_polling",
+    "version": "0.1.0"
+  }
